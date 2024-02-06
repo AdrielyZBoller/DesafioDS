@@ -6,7 +6,7 @@ Para a análise dos dados é necessário seguir os passos abaixo.
 
 ### Clonar o projeto:
 No repositório, é possível encontrar o link projeto via SSH ou HTTPS e juntamente com o comando `git clone` é possível clonar o projeto.
-- `https://github.com/AdrielyZBoller/DesafioDS.git`
+- `https://github.com/AdrielyZBoller/Desafio_Data_Science.git`
 
 ### Ambiente Virtual:
 Para realização do projeto foi criado um ambiente virtual. Para criar um ambiente virtual na pasta do projeto, siga estes passos:
