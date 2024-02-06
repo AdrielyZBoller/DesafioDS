@@ -10,7 +10,7 @@ No repositório, é possível encontrar o link projeto via SSH ou HTTPS e juntam
 
 ### Ambiente Virtual:
 Para realização do projeto foi criado um ambiente virtual. Para criar um ambiente virtual na pasta do projeto, siga estes passos:
-- `python  -m venv venv`
+- `python -m venv venv`
 
 ### Ativar o ambiente virtual:
 Após criar o ambiente virtual, é necessário ativá-lo.
