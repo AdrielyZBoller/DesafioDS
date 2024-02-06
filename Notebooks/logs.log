@@ -3114,3 +3114,30 @@ Alternately, you can install this by running `pip install pycaret[models]`
 2024-02-06 18:47:01,033:INFO:_display_container: 2
 2024-02-06 18:47:01,035:INFO:[GradientBoostingRegressor(random_state=980), LGBMRegressor(n_jobs=-1, random_state=980), Lars(random_state=980)]
 2024-02-06 18:47:01,035:INFO:compare_models() successfully completed......................................
+2024-02-06 18:47:39,000:INFO:Initializing predict_model()
+2024-02-06 18:47:39,001:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002A88F494820>, estimator=GradientBoostingRegressor(random_state=980), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002A88F6BA710>)
+2024-02-06 18:47:39,001:INFO:Checking exceptions
+2024-02-06 18:47:39,001:INFO:Preloading libraries
+2024-02-06 18:47:39,007:INFO:Set up data.
+2024-02-06 18:47:39,032:INFO:Set up index.
+2024-02-06 18:47:39,215:WARNING:e:\Usuario\Desktop\DesafioDS\venv\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+2024-02-06 18:47:39,404:INFO:Initializing predict_model()
+2024-02-06 18:47:39,405:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002A88F494820>, estimator=LGBMRegressor(n_jobs=-1, random_state=980), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002A88F6BA710>)
+2024-02-06 18:47:39,405:INFO:Checking exceptions
+2024-02-06 18:47:39,405:INFO:Preloading libraries
+2024-02-06 18:47:39,411:INFO:Set up data.
+2024-02-06 18:47:39,445:INFO:Set up index.
+2024-02-06 18:47:39,548:WARNING:e:\Usuario\Desktop\DesafioDS\venv\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
+2024-02-06 18:47:39,706:INFO:Initializing predict_model()
+2024-02-06 18:47:39,707:INFO:predict_model(self=<pycaret.regression.oop.RegressionExperiment object at 0x000002A88F494820>, estimator=Lars(random_state=980), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002A88F6BA710>)
+2024-02-06 18:47:39,707:INFO:Checking exceptions
+2024-02-06 18:47:39,707:INFO:Preloading libraries
+2024-02-06 18:47:39,714:INFO:Set up data.
+2024-02-06 18:47:39,750:INFO:Set up index.
+2024-02-06 18:47:39,840:WARNING:e:\Usuario\Desktop\DesafioDS\venv\lib\site-packages\sklearn\metrics\_regression.py:918: UndefinedMetricWarning: R^2 score is not well-defined with less than two samples.
+  warnings.warn(msg, UndefinedMetricWarning)
+
